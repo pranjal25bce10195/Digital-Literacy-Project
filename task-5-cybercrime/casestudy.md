@@ -1,38 +1,60 @@
 Case Study: UPI Fraud
 
 What is UPI Fraud?
+
 UPI fraud is a type of digital scam where someone tricks you into sending money through apps like Google Pay, PhonePe, or Paytm without your proper intention. It usually involves deception, not hacking — scammers manipulate people into authorizing payments themselves.
 
 How UPI Fraud Typically Happens (Step-by-Step)
+
 1. Contact by scammer - 
 You receive a call, message, or WhatsApp text
+
 They pretend to be: Bank officials, Customer care, Buyers/sellers, Government agents
-2. Creating urgency or trust - 
+
+2. Creating urgency or trust -
 They say things like:
+
 “Your account will be blocked”
+
 “You won a prize”
+
 “I am sending you money, please accept”
+
 3. Sending fake request or link - 
 They send: A payment request (Collect request), A fake website link, QR code to scan
+
 They say “you will receive money”, but actually it’s a request to pay money.
-4. Asking for sensitive info - 
+
+5. Asking for sensitive info - 
 They may ask for: UPI PIN, OTP, Card details
-5. Money gets transferred - 
+
+7. Money gets transferred - 
 The victim unknowingly approves payment
+
 Money instantly goes to scammer’s account
+
 Hard to reverse
 
 Scammers often target:
+
 Elderly people (less tech awareness)
+
 Students (quick money offers, job scams)
+
 Online buyers/sellers (OLX, marketplace users)
+
 People in urgent situations (panic makes decisions faster)
+
 New digital payment users
 
 Consequences of UPI Fraud: 
+
 Financial Loss 
+
 Emotional Stress 
+
 Difficulty in Recovery 
+
 Risk of Further Fraud 
 
 A real life scam going on: 
