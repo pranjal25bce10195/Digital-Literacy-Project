@@ -1,8 +1,11 @@
 # Digital-Literacy-Project
 
 Name: Pranjal Shahi 
+
 Reg No: 25BCE10195
+
 Branch: B.Tech CSE CORE 
+
 Year: 1st Year  
 
 ## Project Overview
