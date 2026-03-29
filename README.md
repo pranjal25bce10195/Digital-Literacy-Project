@@ -2,7 +2,7 @@
 
 Name: Pranjal Shahi 
 
-Reg No: 25BCE10195
+Registration Number: 25BCE10195
 
 Branch: B.Tech CSE CORE 
 
